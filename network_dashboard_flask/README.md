@@ -21,8 +21,6 @@ A powerful and beginner-friendly **Flask-based web application** for performing 
 
 Built with a modern, responsive HTML UI using inline CSS. Interact through your web browser.
 
-![screenshot](https://via.placeholder.com/600x300?text=Smart+Network+Utility+Dashboard)
-
 ---
 
 ## 📂 Project Structure
@@ -110,8 +108,8 @@ Output:
 
 ## 🧑‍💻 Authors
 
-- P. UdayKiran
-- Team: S. Hasika,  R. Sidhartha Chowdary, N. Chaithanya Krishna
+- P. Udaykiran - https://github.com/Udaykiranpotteppagari
+- Team - S. Hasika - https://github.com/hasi21-sun , R. Sidhartha Chowdary - https://github.com/Sidhartha143 , N. Chaithanya Krishna - https://github.com/krishna-chaithanya113
 - 💡 Guided by: Mrs. Sahana D S,
                 Assistant Professor,
                 Department of CSE,
